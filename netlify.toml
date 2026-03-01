@@ -1,4 +1,4 @@
 [build]
   base    = "opulen-news"
   command = "npm run build"
-  publish = "opulen-news/dist"
+  publish = "dist"
